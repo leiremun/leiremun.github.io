@@ -57,3 +57,4 @@ Ahora que conoces las letras, veamos algunas palabras en euskera y cómo se pron
 Ahora realiza los [ejercicios](https://leiremun.github.io/2_abecedario/ejerciciosAbecedario.pdf) y después pasa al [siguiente tema](/3_saludos/README.md).
 
 Recuerda que tienes un [anexo](https://leiremun.github.io/ANEXOS/anexoI.epub) con las soluciones a los ejercicios.
+> Deberás tener un dispositivo que permita la lectura de este archivo EPUB. Es posible que en tu portátil u ordenador no se visualice correctamente.
