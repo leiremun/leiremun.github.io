@@ -1,7 +1,7 @@
 # 6) Gramatika - Gramática
 En esta lección, exploraremos aspectos fundamentales de la gramática del euskera.
 
-![Syntax](https://i.gifer.com/7jLt.gif)
+![Syntax](https://pa1.aminoapps.com/7647/abfc88fad5ebd8080633e7c13dd4637374ec7468r1-480-480_00.gif)
 
 ## Introducción
 La gramática del euskera es única y presenta características que la distinguen de otros idiomas europeos.
