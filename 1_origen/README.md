@@ -3,6 +3,8 @@
 El euskera es una lengua singular con un origen muy antiguo y en gran medida desconocido, que ha logrado sobrevivir a través de los milenios en una región relativamente pequeña pero culturalmente rica y diversa.
 Su origen es uno de los grandes misterios de la lingüística. A diferencia de la mayoría de las lenguas europeas, el euskera no pertenece a la familia de lenguas indoeuropeas.
 
+![Mapa](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Linguistic_map_Southwestern_Europe-en.gif/450px-Linguistic_map_Southwestern_Europe-en.gif)
+
 A continuación te presentamos un resumen de los principales hechos conocidos sobre su origen e historia:
 
 ## Lengua preindoeuropea:
