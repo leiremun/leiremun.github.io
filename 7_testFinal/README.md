@@ -6,4 +6,4 @@ Se trata de una historia en el que te irán apareciendo preguntas de opción mú
 
 **Zorte on! ¡Buena suerte!**
 
-Pincha [aquí](/7_testFinal/perdidosEnGipuzkoa.html) para acceder al test final.
+Pincha [aquí](https://leiremun.github.io/7_testFinal/perdidosEnGipuzkoa.html) para acceder al test final.
