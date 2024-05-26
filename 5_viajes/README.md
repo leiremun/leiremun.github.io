@@ -89,3 +89,4 @@ En esta lección, aprenderemos vocabulario útil para viajar, que te ayudará a 
 Ahora realiza los [ejercicios](https://leiremun.github.io/5_viajes/ejerciciosViajes.pdf) y después pasa al [siguiente tema](/6_gramatica/README.md).
 
 Recuerda que tienes un [anexo](https://leiremun.github.io/ANEXOS/anexoI.epub) con las soluciones a los ejercicios.
+> Deberás tener un dispositivo que permita la lectura de este archivo EPUB. Es posible que en tu portátil u ordenador no se visualice correctamente.
