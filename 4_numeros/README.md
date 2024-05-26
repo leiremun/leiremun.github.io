@@ -50,8 +50,9 @@ El sistema numérico del euskera es vigesimal (base 20), similar al francés ant
 
 ## Números del 31 al 100
 Para los números 31 a 99, seguimos un patrón similar al de los 21 a 29. Aquí tienes algunos ejemplos:
+
 |Número|Euskera|
-|------|------|
+|-------|-------|
 |31|Hogeita hamaika|
 |32|Hogeita hamabi|
 |40|Berrogei|
@@ -61,11 +62,11 @@ Para los números 31 a 99, seguimos un patrón similar al de los 21 a 29. Aquí 
 |60|Hirurogei|
 |68|Hirurogeita zortzi|
 |70|Hirurogeita hamar|
-|79|Hirurogeita bederatzi|
+|79|Hirurogeita hemeretzi|
 |80|Laurogei|
 |89|Laurogeita bederatzi|
 |90|Laurogeita hamar|
-|99|Hemeretzi|
+|99|Laurogeita hemeretzi|
 |100|Ehun|
 
 ---
