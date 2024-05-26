@@ -1,4 +1,4 @@
-# EUSKERA
+# CURSO DE EUSKERA
 
 ***Ongi etorri!*** Bienvenido/a a este curso de euskera.
 
