@@ -2,6 +2,8 @@
 
 ¡Bienvenido a tu primera lección de euskera! En esta lección, aprenderás el abecedario del euskera, cómo se pronuncian las letras y algunos ejemplos de palabras.
 
+![Hablando](https://youtalkonline.com/wp-content/webp-express/webp-images/uploads/C%C3%B3mo-puede-cambiar-la-letra-T-en-ingles-pronunciaci%C3%B3n-y-significados-725x408.jpg.webp)
+
 ## El Abecedario
 
 El abecedario en euskera consta de 27 letras. Aunque es similar al abecedario latino, hay algunas diferencias en la pronunciación. A continuación, se presenta cada letra con su pronunciación aproximada en español:
