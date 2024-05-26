@@ -1,4 +1,4 @@
-# <center> 2) ALFABETOA - EL ABECEDARIO </center)
+# <center> 2) ALFABETOA - EL ABECEDARIO </center>
 
 ¡Bienvenido a tu primera lección de euskera! En esta lección, aprenderás el abecedario del euskera, cómo se pronuncian las letras y algunos ejemplos de palabras.
 
