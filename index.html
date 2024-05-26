@@ -11,8 +11,35 @@
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css"
     />
+    <style>
+      #fixed-index {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 250px; /* Ajusta el ancho según tus preferencias */
+        height: 100vh;
+        overflow-y: auto;
+        background-color: #f9f9f9;
+        padding: 20px;
+        border-right: 1px solid #ddd;
+      }
+    </style>
   </head>
   <body>
+      <div id="fixed-index">
+      <h2>Índice</h2>
+      <ul>
+        <li><a href="/README.md">Inicio</a></li>
+        <li><a href="/1_origen/README.md">1. Origen del euskera</a></li>
+        <li><a href="/2_abecedario/README.md">2. El abecedario</a></li>
+        <li><a href="/3_saludos/README.md">3. Los saludos</a></li>
+        <li><a href="/4_numeros/README.md">4. Los números</a></li>
+        <li><a href="/5_viajes/README.md">5. Palabras para viajes</a></li>
+        <li><a href="/6_gramatica/README.md">6. Gramática</a></li>
+        <li><a href="/7_testFinal/README.md">Test final</a></li>
+        <li><a href="/ANEXOS/README.md">Anexos</a></li>
+      </ul>
+    </div>
     <div id="app"></div>
     <script>
       window.$docsify = {
@@ -20,20 +47,6 @@
         repo: 'https://leiremun.github.io/',
         relativePath: true,
         auto2top: true
-        sidebar:`
-          # Índice
-
-          - [Inicio](/README.md)
-          - [1. Origen del euskera](/1_origen/README.md)
-          - [2. El abecedario](/2_abecedario/README.md)
-          - [3. Los saludos](/3_saludos/README.md)
-          - [4. Los números](/4_numeros/README.md)
-          - [5. Palabras para viajes](/5_viajes/README.md)
-          - [6. Gramática](/6_gramatica/README.md)
-          - [Test final](/7_testFinal/README.md)
-          - [Anexos](/ANEXOS/README.md)
-        `
-      };
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
