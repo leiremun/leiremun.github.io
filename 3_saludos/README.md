@@ -1,4 +1,4 @@
-# Agurrak - Saludos
+# 3) Agurrak - Saludos
 En esta lección, aprenderemos sobre los saludos en euskera y cómo utilizarlos en diferentes situaciones.
 
 ## 1. Kaixo - Hola
@@ -29,3 +29,5 @@ _Egun on_ se utiliza para desear "buenos días" en euskera.
 ---
 
 Ahora realiza los [ejercicios](https://leiremun.github.io/3_saludos/ejerciciosSaludos.pdf) y después pasa al [siguiente tema](/4_numeros/README.md).
+
+Recuerda que tienes un [anexo](https://leiremun.github.io/ANEXOS/anexoI.epub) con las soluciones a los ejercicios.
