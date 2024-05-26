@@ -10,13 +10,13 @@ Este curso está diseñado para aquellos que desean aprender los fundamentos del
 
 En este curso encontrarás contenido variado, organizado en 7 temas:
 
-- [1) **Euskararen jatorria** - Origen del euskera](/1_origen/README.md)
-- [2) **Alfabetoa** - El abecedario](/2_abecedario/README.md)
-- [3) **Agurrak** - Los saludos](/3_saludos/README.md)
-- [4) **Zenbakiak** - Los números](/4_numeros/README.md)
-- [5) **Bidaietarako hitzak** - Palabras para viajes](/5_viajes/README.md)
-- [6) **Gramatika** - Gramática](/6_gramatica/README.md)
-- [**Azterketa** - Test final](/7_testFinal/README.md)
+- [1) Euskararen jatorria - Origen del euskera](/1_origen/README.md)
+- [2) Alfabetoa - El abecedario](/2_abecedario/README.md)
+- [3) Agurrak - Los saludos](/3_saludos/README.md)
+- [4) Zenbakiak - Los números](/4_numeros/README.md)
+- [5) Bidaietarako hitzak - Palabras para viajes](/5_viajes/README.md)
+- [6) Gramatika - Gramática](/6_gramatica/README.md)
+- [Azterketa - Test final](/7_testFinal/README.md)
 - [Anexos](/ANEXOS/README.md)
 
 
