@@ -7,6 +7,7 @@ Por ejemplo, el euskera es una lengua aglutinante, lo que significa que las pala
 Pero... ¿qué significa esto? 
 En español, por ejemplo, tenemos preposiciones y artículos que preceden a los sustantivos. En euskera es la propia palabra que adopta unas marcas que le aportan un significado determinado. Esto es:
 > universidad = unibertsitate; la universidad = unibertsitatea; en la universidad = unibertsitatean; a la universidad = unibertsitatera
+
 A continuación, veremos más aspectos básicos y curiosos de la gramática del euskera
 
 ## Artículos definidos e indefinidos
@@ -120,3 +121,4 @@ El euskera utiliza casos gramaticales para indicar la función de las palabras e
 ¡Muy bien! ya has terminado con los contenidos teóricos del curso. Ahora realiza los [ejercicios](https://leiremun.github.io/6_gramatica/ejerciciosGramática.pdf) de este tema y después pasa al [último apartado](/7_testFinal/README.md), donde tendrás un test final con los contenidos vistos durante el curso.
 
 Recuerda que tienes un [anexo](https://leiremun.github.io/ANEXOS/anexoI.epub) con las soluciones a los ejercicios.
+> Deberás tener un dispositivo que permita la lectura de este archivo EPUB. Es posible que en tu portátil u ordenador no se visualice correctamente.
