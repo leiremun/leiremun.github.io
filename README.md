@@ -8,7 +8,7 @@ Este curso está diseñado para aquellos que desean aprender los fundamentos del
 
 En este curso encontrarás contenido variado, organizado en 7 temas:
 
-### [1) **Euskararen jatorria** - Origen del euskera](https://github.com/leiremun/leiremun.github.io/tree/cc39581ecd488735fffa3ae92a08d2b7223c9733/1_origen)
+### [1) **Euskararen jatorria** - Origen del euskera](leiremun.github.io/1_origen/README.md)
 ### [2) **Alfabetoa** - El abecedario](/2_abecedario)
 ### [3) **Agurrak** - Los saludos](/3_saludos)
 ### [4) **Zenbakiak** - Los números](/4_numeros)
