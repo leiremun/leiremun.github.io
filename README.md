@@ -4,7 +4,7 @@
 
 Este curso está diseñado para aquellos que desean aprender los fundamentos del euskera, ya sea por interés personal, por motivos profesionales o porque desean explorar la riqueza cultural del País Vasco. A lo largo de este viaje de aprendizaje, exploraremos la gramática, el vocabulario, la pronunciación y las expresiones comunes en euskera, todo presentado de manera clara y accesible.
 
-![Imagen con palabras en euskera](https://blog.laboralkutxa.com/media/photologue/photos/wp_lkblog_Blog-Euskera-0520.png)
+![Imagen con palabras en euskera](https://turismo.euskadi.eus/contenidos/blog_post/0000000341_post_turismo/es_341/images/GLP_341_palabrasmosaico.jpg)
 
 ## ÍNDICE
 
