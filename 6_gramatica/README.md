@@ -1,6 +1,8 @@
 # 6) Gramatika - Gramática
 En esta lección, exploraremos aspectos fundamentales de la gramática del euskera.
 
+![Syntax](https://i.gifer.com/7jLt.gif)
+
 ## Introducción
 La gramática del euskera es única y presenta características que la distinguen de otros idiomas europeos.
 Por ejemplo, el euskera es una lengua aglutinante, lo que significa que las palabras se forman y modifican mediante la adición de morfemas (unidades mínimas de significado) a una raíz.
