@@ -1,4 +1,4 @@
-# Bidaietarako hitzak - Vocabulario para viajes
+# 5) Bidaietarako hitzak - Vocabulario para viajes
 
 En esta lección, aprenderemos vocabulario útil para viajar, que te ayudará a comunicarte en diferentes situaciones durante tus viajes.
 
@@ -87,3 +87,5 @@ En esta lección, aprenderemos vocabulario útil para viajar, que te ayudará a 
 ---
 
 Ahora realiza los [ejercicios](https://leiremun.github.io/5_viajes/ejerciciosViajes.pdf) y después pasa al [siguiente tema](/6_gramatica/README.md).
+
+Recuerda que tienes un [anexo](https://leiremun.github.io/ANEXOS/anexoI.epub) con las soluciones a los ejercicios.
