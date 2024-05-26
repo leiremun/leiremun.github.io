@@ -21,9 +21,9 @@ En este curso encontrarás contenido variado, organizado en 7 temas:
 
 
 **Detalles**
-Para una explicación detallada de los contenidos del curso, te invitamos a ver [la siguiente presentación](/ANEXOS/ppt.html).
+Para una explicación detallada de los contenidos del curso, te invitamos a ver [la siguiente presentación](https://leiremun.github.io/ANEXOS/ppt.html).
 
 **Organización de los contenidos**
-Como verás hay 6 temas: cada uno consta de una parte teórica y un pdf con ejercicios. El [séptimo apartado](/7_testFinal) se trata de test final. Además, cuentas también con un último [apartado adicional](/ANEXOS) en el que encontrarás dos archivos epub: [anexo I](https://leiremun.github.io/ANEXOS/anexoI.epub), con las soluciones de los ejercicios, y [anexo II](https://leiremun.github.io/ANEXOS/anexoII.epub), con enlaces a recursos adicionales en caso de que sea de tu interés.
+Como verás hay 6 temas: cada uno consta de una parte teórica y un pdf con ejercicios. El [séptimo apartado](/7_testFinal/README.md) se trata de test final. Además, cuentas también con un último [apartado adicional](/ANEXOS/README.md) en el que encontrarás dos archivos epub: [anexo I](https://leiremun.github.io/ANEXOS/anexoI.epub), con las soluciones de los ejercicios, y [anexo II](https://leiremun.github.io/ANEXOS/anexoII.epub), con enlaces a recursos adicionales en caso de que sea de tu interés.
 
 Ahora sí, puedes empezar con el [primer tema](/1_origen/README.md)
