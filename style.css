@@ -261,7 +261,7 @@ main.hidden {
   border-bottom: none;
   display: block;
 }
-.sidebar ul li ul {
+.sidebar ul li ul a{
   padding-left: 20px;
 }
 .sidebar::-webkit-scrollbar {
@@ -601,7 +601,7 @@ body {
   background-color: #fff;
   color: #364149;
 }
-.sidebar li {
+.sidebar li a{
   margin: 6px 0 6px 0;
 }
 .sidebar ul li a {
@@ -616,10 +616,10 @@ body {
 .sidebar ul li a:hover {
   text-decoration: underline;
 }
-.sidebar ul li ul {
+.sidebar ul li ul a{
   padding: 0;
 }
-.sidebar ul li.active > a {
+.sidebar ul li.active a {
   border-right: 2px solid;
   color: #42b983;
   color: var(--theme-color, #42b983);
