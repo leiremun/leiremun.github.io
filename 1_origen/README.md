@@ -33,3 +33,4 @@ A lo largo de los siglos, el euskera ha logrado sobrevivir en gran medida debido
 Ahora realiza los [ejercicios](https://leiremun.github.io/1_origen/ejerciciosHistoria.pdf) y después pasa al [siguiente tema](/2_abecedario/README.md).
 
 Recuerda que tienes un [anexo](https://leiremun.github.io/ANEXOS/anexoI.epub) con las soluciones a los ejercicios.
+> Deberás tener un dispositivo que permita la lectura de este archivo EPUB. Es posible que en tu portátil u ordenador no se visualice correctamente.
