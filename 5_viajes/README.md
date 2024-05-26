@@ -86,4 +86,4 @@ En esta lección, aprenderemos vocabulario útil para viajar, que te ayudará a 
 
 ---
 
-Ahora realiza los [ejercicios](/5_viajes/ejerciciosViajes.pdf) y después pasa al [siguiente tema](/6_gramatica).
+Ahora realiza los [ejercicios](/5_viajes/ejerciciosViajes.pdf) y después pasa al [siguiente tema](/6_gramatica/README.md).
