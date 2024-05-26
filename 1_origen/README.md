@@ -30,4 +30,4 @@ A lo largo de los siglos, el euskera ha logrado sobrevivir en gran medida debido
 
 ---
 
-Ahora realiza los [ejercicios](/1_origen/ejerciciosHistoria.pdf) y después pasa al [siguiente tema](/2_abecedario/README.md).
+Ahora realiza los [ejercicios](https://github.com/leiremun/leiremun.github.io/blob/a22214867acaa71c66b3a7da13ed6f56a92336e3/1_origen/ejerciciosHistoria.pdf) y después pasa al [siguiente tema](/2_abecedario/README.md).
