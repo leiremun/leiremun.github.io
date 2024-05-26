@@ -1,6 +1,8 @@
 # 3) Agurrak - Saludos
 En esta lección, aprenderemos sobre los saludos en euskera y cómo utilizarlos en diferentes situaciones.
 
+![Kaixo](https://media1.giphy.com/media/9nXj1wBLAFnXxdekZH/giphy.gif?cid=6c09b952uc2736514cmte5qnoyp1frvhvnz62cbslwc8c0ip&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
+
 ## 1. Kaixo - Hola
 _Kaixo_ es la forma más común de decir "hola" en euskera. Se utiliza en situaciones tanto formales como informales.
 > Ejemplo: _Kaixo, zer moduz?_ (¡Hola, ¿cómo estás?)
