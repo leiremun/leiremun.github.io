@@ -73,3 +73,4 @@ Para los números 31 a 99, seguimos un patrón similar al de los 21 a 29. Aquí 
 Ahora realiza los [ejercicios](https://leiremun.github.io/4_numeros/ejerciciosNumeros.pdf) y después pasa al [siguiente tema](/5_viajes/README.md).
 
 Recuerda que tienes un [anexo](https://leiremun.github.io/ANEXOS/anexoI.epub) con las soluciones a los ejercicios.
+> Deberás tener un dispositivo que permita la lectura de este archivo EPUB. Es posible que en tu portátil u ordenador no se visualice correctamente.
