@@ -70,4 +70,4 @@ Para los números 31 a 99, seguimos un patrón similar al de los 21 a 29. Aquí 
 
 ---
 
-Ahora realiza los [ejercicios](/4_numeros/ejerciciosNumeros.pdf) y después pasa al [siguiente tema](/5_viajes/README.md).
+Ahora realiza los [ejercicios](https://leiremun.github.io/4_numeros/ejerciciosNumeros.pdf) y después pasa al [siguiente tema](/5_viajes/README.md).
