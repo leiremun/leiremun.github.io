@@ -6,14 +6,6 @@
 
 El abecedario en euskera consta de 27 letras. Aunque es similar al abecedario latino, hay algunas diferencias en la pronunciación. A continuación, se presenta cada letra con su pronunciación aproximada en español:
 
-# Lección 1: El Abecedario en Euskera
-
-¡Bienvenido a tu primera lección de euskera! En esta lección, aprenderás el abecedario del euskera, cómo se pronuncian las letras y algunos ejemplos de palabras.
-
-## El Abecedario
-
-El abecedario en euskera consta de 27 letras. Aunque es similar al abecedario latino, hay algunas diferencias en la pronunciación. A continuación, se presenta cada letra con su pronunciación aproximada en español:
-
 |Letra|Nombre|Pronunciación Aproximada|
 |-----|------|-----|
 |A|a|a|
