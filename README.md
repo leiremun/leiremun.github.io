@@ -25,5 +25,6 @@ Para una explicación detallada de los contenidos del curso, te invitamos a ver 
 
 **Organización de los contenidos**
 Como verás hay 6 temas: cada uno consta de una parte teórica y un pdf con ejercicios. El [séptimo apartado](/7_testFinal/README.md) se trata de test final. Además, cuentas también con un último [apartado adicional](/ANEXOS/README.md) en el que encontrarás dos archivos epub: [anexo I](https://leiremun.github.io/ANEXOS/anexoI.epub), con las soluciones de los ejercicios, y [anexo II](https://leiremun.github.io/ANEXOS/anexoRecursos.epub), con enlaces a recursos adicionales en caso de que sea de tu interés.
+> Deberás tener un dispositivo que permita la lectura de archivos EPUB. Es posible que en tu portátil u ordenador no se visualicen correctamente.
 
 Ahora sí, puedes empezar con el [primer tema](/1_origen/README.md)
