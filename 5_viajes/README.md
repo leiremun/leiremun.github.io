@@ -2,6 +2,8 @@
 
 En esta lección, aprenderemos vocabulario útil para viajar, que te ayudará a comunicarte en diferentes situaciones durante tus viajes.
 
+![Visit Basque Country](https://pbs.twimg.com/media/FFbvV13XoAIRaDx.jpg)
+
 ## Vocabulario básico
 |Euskera|Español|
 |-------|-------|
