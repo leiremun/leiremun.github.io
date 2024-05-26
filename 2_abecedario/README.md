@@ -62,4 +62,4 @@ Ahora que conoces las letras, veamos algunas palabras en euskera y cómo se pron
 
 ---
 
-Ahora realiza los [ejercicios](/2_abecedario/ejerciciosAbecedario.pdf) y después pasa al [siguiente tema](/3_saludos).
+Ahora realiza los [ejercicios](/2_abecedario/ejerciciosAbecedario.pdf) y después pasa al [siguiente tema](/3_saludos/README.md).
