@@ -16,6 +16,9 @@ En este curso encontrarás contenido variado, organizado en 7 temas:
 6. [**Gramatika** - Gramática](/6_gramatica)
 7. [**Azterketa** - Test final](/7_testFinal)
 
+### Detalles
+Para una explicación detallada de los contenidos del curso, te invitamos a ver [la siguiente presentación](/ANEXOS/ppt.html).
+
 ### Organización de los contenidos
 Como verás hay 6 temas: cada uno consta de una parte teórica y un pdf con ejercicios. El [séptimo tema](/7_testFinal) se trata de test final. Además, cuentas también con una [carpeta adicional](/ANEXOS) en el que encontrarás dos archivos epub: [anexo I](/ANEXOS/anexoI.epub), con las soluciones de los ejercicios, y [anexo II](/ANEXOS/anexoII.epub), con enlaces a recursos adicionales en caso de que sea de tu interés.
 
