@@ -866,3 +866,13 @@ code .token {
   position: relative;
   left: auto;
 }
+.sidebar ul li a {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  padding: 8px 16px; /* Ajusta el espaciado según sea necesario */
+}
+
+.sidebar ul li a:hover {
+  background-color: #f0f0f0; /* Cambia el color de fondo al pasar el mouse */
+}
