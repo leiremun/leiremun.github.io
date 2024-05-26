@@ -54,4 +54,4 @@ Ahora que conoces las letras, veamos algunas palabras en euskera y cómo se pron
 
 ---
 
-Ahora realiza los [ejercicios](ejerciciosAbecedario.pdf) y después pasa al [siguiente tema](/3_saludos/README.md).
+Ahora realiza los [ejercicios](https://leiremun.github.io/2_abecedario/ejerciciosAbecedario.pdf) y después pasa al [siguiente tema](/3_saludos/README.md).
