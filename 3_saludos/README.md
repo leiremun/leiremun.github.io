@@ -28,4 +28,4 @@ _Egun on_ se utiliza para desear "buenos días" en euskera.
 
 ---
 
-Ahora realiza los [ejercicios](/3_saludos/ejerciciosSaludos.pdf) y después pasa al [siguiente tema](/4_numeros).
+Ahora realiza los [ejercicios](/3_saludos/ejerciciosSaludos.pdf) y después pasa al [siguiente tema](/4_numeros/README.md).
