@@ -2,6 +2,8 @@
 
 En este tema vamos a aprender los números del 0 al 100. Conocer los números es esencial para muchas situaciones cotidianas, como decir la hora, hacer compras y más.
 
+![Números](https://upload.wikimedia.org/wikipedia/commons/e/ee/Numbers.gif)
+
 ## Números del 0 al 10
 |Número|Euskera|
 |------|------|
