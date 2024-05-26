@@ -117,6 +117,6 @@ El euskera utiliza casos gramaticales para indicar la función de las palabras e
 
 ---
 
-¡Muy bien! ya has terminado con los contenidos teóricos del curso. Ahora realiza los [ejercicios](https://leiremun.github.io/6_gramatica/ejerciciosGramática.pdf) de este tema y después pasa a la [última carpeta](/7_testFinal/README.md), donde tendrás un test final con los contenidos vistos durante el curso.
+¡Muy bien! ya has terminado con los contenidos teóricos del curso. Ahora realiza los [ejercicios](https://leiremun.github.io/6_gramatica/ejerciciosGramática.pdf) de este tema y después pasa al [último apartado](/7_testFinal/README.md), donde tendrás un test final con los contenidos vistos durante el curso.
 
 Recuerda que tienes un [anexo](https://leiremun.github.io/ANEXOS/anexoI.epub) con las soluciones a los ejercicios.
