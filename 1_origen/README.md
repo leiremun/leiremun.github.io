@@ -1,5 +1,10 @@
 # 1) EUSKARAREN JATORRIA - ORIGEN DEL EUSKERA
 
+### *Els dialectes del català* - Edpuzzle  
+
+<iframe width="590" height="475" src="https://edpuzzle.com/embed/assignments/6655bb8c00f1fc3240005d79/watch" frameborder="0" allowfullscreen></iframe>
+
+
 El euskera es una lengua singular con un origen muy antiguo y en gran medida desconocido, que ha logrado sobrevivir a través de los milenios en una región relativamente pequeña pero culturalmente rica y diversa.
 Su origen es uno de los grandes misterios de la lingüística. A diferencia de la mayoría de las lenguas europeas, el euskera no pertenece a la familia de lenguas indoeuropeas.
 
